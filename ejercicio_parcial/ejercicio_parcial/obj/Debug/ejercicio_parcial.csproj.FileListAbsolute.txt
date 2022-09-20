@@ -1,0 +1,8 @@
+C:\c#\ejercicio_parcial\ejercicio_parcial\bin\Debug\ejercicio_parcial.exe.config
+C:\c#\ejercicio_parcial\ejercicio_parcial\bin\Debug\ejercicio_parcial.exe
+C:\c#\ejercicio_parcial\ejercicio_parcial\bin\Debug\ejercicio_parcial.pdb
+C:\c#\ejercicio_parcial\ejercicio_parcial\obj\Debug\ejercicio_parcial.csproj.AssemblyReference.cache
+C:\c#\ejercicio_parcial\ejercicio_parcial\obj\Debug\ejercicio_parcial.csproj.SuggestedBindingRedirects.cache
+C:\c#\ejercicio_parcial\ejercicio_parcial\obj\Debug\ejercicio_parcial.csproj.CoreCompileInputs.cache
+C:\c#\ejercicio_parcial\ejercicio_parcial\obj\Debug\ejercicio_parcial.exe
+C:\c#\ejercicio_parcial\ejercicio_parcial\obj\Debug\ejercicio_parcial.pdb
